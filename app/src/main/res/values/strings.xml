@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+
+    <string name="clear_text">Reset</string>
+
+    <string name="player_x">PLAYER(<font fgcolor="#d90022">X</font>) </string>
+    <string name="lose">TIES</string>
+    <string name="default_value">0</string>
+    <string name="player_o">PLAYER(<font fgcolor="#1055a4">O</font>) </string>
+
+
+
+</resources>
